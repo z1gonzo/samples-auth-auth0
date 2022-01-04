@@ -2,7 +2,7 @@ POST  http://localhost:5000/todos
 content-type: application/json
 
 {
-    "description": "Nowe zadanka hehe"
+    "description": "new one"
 }
 
 ###
